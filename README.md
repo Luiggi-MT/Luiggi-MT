@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy LuiggiMT</h1>
-<h3 align="center">Estudiante de informática</h3>
 
 ---
 
@@ -26,7 +25,6 @@ Actualmente, estoy enfocado en aprender y trabajar con tecnologías modernas que
 
 ### 📚 Actualmente
 
-- 🎓 Estudio informática y matemáticas.
 - 🌱 Aprendiendo más sobre **Docker**, **TypeScript**, y **Desarrollo de APIs**.
 
 
