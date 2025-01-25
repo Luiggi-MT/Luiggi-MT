@@ -52,7 +52,7 @@ Actualmente, estoy enfocado en aprender y trabajar con tecnologías modernas que
 Estoy siempre dispuesto a colaborar en proyectos interesantes o simplemente conversar sobre tecnología. Puedes encontrarme en:
 
 - Email: [luisalberto.mejiat@um.es](mailto:luisalberto.mejiat@um.es)
-- Instagram: [luiggi.mt]
+- Instagram: luiggi.mt
 ---
 
 <p align="center">
