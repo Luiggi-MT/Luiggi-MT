@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LuiggiMT"><img src="https://img.shields.io/github/followers/LuiggiMT?label=Seguidores&style=social"></a>
+  <a href="https://github.com/Luiggi-MT"><img src="https://img.shields.io/github/followers/Luiggi-MT?label=Seguidores&style=social"></a>
 </p>
 
 ---
