@@ -1,3 +1,4 @@
+<div style="background-color: #001f3f; padding: 20px; border-radius: 10px; color: white;">
 <h1 align="center">Hola 👋, soy LuiggiMT</h1>
 
 ---
@@ -58,3 +59,4 @@ Estoy siempre dispuesto a colaborar en proyectos interesantes o simplemente conv
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuiggiMT&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="LuiggiMT" />
 </p>
+</div>
