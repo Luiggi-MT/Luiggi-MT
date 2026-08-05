@@ -1,65 +1,108 @@
-<h1 align="center">Hola 👋, soy LuiggiMT</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
+</p>
 
----
+<h1 align="center">Hola, soy Luiggi 👋</h1>
+
+<h3 align="center">
+Estudiante de Ingeniería Informática y Matemáticas • Desarrollador Full Stack • Desarrollador de Apprendo.es
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Luiggi-MT"><img src="https://img.shields.io/github/followers/Luiggi-MT?label=Seguidores&style=social"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;React+Native+%7C+Python+%7C+Node.js;Accesibilidad+e+Innovaci%C3%B3n;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+## 🚀 Sobre mí
 
-Actualmente, estoy enfocado en aprender y trabajar con tecnologías modernas que impulsen aplicaciones sólidas y efectivas. Siempre busco mejorar mis habilidades y explorar nuevas áreas de la informática.
+💻 Estudiante del doble grado en **Ingeniería Informática + Matemáticas**.
 
-### 🚀 Tecnologías y Herramientas
+📱 Actualmente desarrollando **Apprendo**, una aplicación móvil orientada a mejorar la comunicación y el aprendizaje de personas con discapacidad intelectual.
 
-<div align="center">
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  </a>
-  <a href="https://reactnative.dev/">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </a>
-  <a href="https://www.ruby-lang.org/">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-</div>
+❤️ Me apasiona desarrollar aplicaciones accesibles, intuitivas y útiles.
 
-### 📚 Actualmente
+🌱 Actualmente aprendiendo
 
-- 🌱 Aprendiendo más sobre **Docker**, **TypeScript**, y **Desarrollo de APIs**.
+- Docker
+- TypeScript
+- Arquitecturas Backend
+- Inteligencia Artificial aplicada
 
 ---
 
-<div style="background-color: #001f3f; padding: 20px; border-radius: 10px; color: white;">
+# 💻 Tecnologías
 
-### 💬 Contáctame
+<p align="center">
 
-Estoy siempre dispuesto a colaborar en proyectos interesantes o simplemente conversar sobre tecnología. Puedes encontrarme en:
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,cpp,mongodb,mysql,docker,git,linux,java,js,ts,html,css,flask" />
 
-- Email: [luisalberto.mejiat@um.es](mailto:luisalberto.mejiat@um.es)
-- Instagram: luiggi.mt
+</p>
 
-</div>
+---
+
+# 📈 Estadísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luiggi-MT&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiggi-MT&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Racha de contribuciones
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiggi-MT&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Actividad
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiggi-MT&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+<a href="mailto:luisalberto.mejiat@um.es">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/luiggi.mt">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Luiggi-MT">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuiggiMT&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="LuiggiMT" />
+
+<img src="https://komarev.com/ghpvc/?username=Luiggi-MT&label=Visitas&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Gracias por visitar mi perfil.
+
 </p>
