@@ -16,8 +16,6 @@ Estudiante de Ingeniería Informática y Matemáticas • Desarrollador Full Sta
 
 ## 🚀 Sobre mí
 
-💻 Estudiante del doble grado en **Ingeniería Informática + Matemáticas**.
-
 📱 Actualmente desarrollando **Apprendo**, una aplicación móvil orientada a mejorar la comunicación y el aprendizaje de personas con discapacidad intelectual.
 
 ❤️ Me apasiona desarrollar aplicaciones accesibles, intuitivas y útiles.
