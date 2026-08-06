@@ -4,7 +4,7 @@
 <h1 align="center">Hola, soy Luiggi.MT</h1>
 
 <h3 align="center">
-Estudiante de Ingeniería Informática y Matemáticas • Desarrollador Full Stack • Desarrollador de Apprendo.es
+Desarrollador Full Stack • Desarrollador de <a href="https://apprendo.es">Apprendo.es</a>
 </h3>
 
 <p align="center">
